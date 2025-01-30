@@ -1,2 +1,11 @@
+# Ignoramos los ficheros de C y C++
+
 *.c
-credenciales.txt
+*.h
+*.cpp
+!saluda.c
+
+# Ignoramos los ficheros de PHP
+
+*.php
+*.phps
