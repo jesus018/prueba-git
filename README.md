@@ -1,4 +1,4 @@
 # prueba-git
 ## Titulo
-Aqui debemos explicar tod muy claro.
+Aqui debemos explicar todo muy claro.
 ## Subtitulo
